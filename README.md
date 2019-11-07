@@ -9,3 +9,4 @@ FPGA Spartan E6.
 El lenguaje de programación utilizado será Verilog y el entorno de desarrollo será el
 proporcionado por Xilinx (ISE Design Suite 14.9).
 
+[Informe del trabajo realizado](https://github.com/Agustincou/universal-asynchronous-receiver-transmitter/blob/master/InformeTP2UART.pdf)
